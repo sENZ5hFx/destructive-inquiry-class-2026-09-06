@@ -1,0 +1,546 @@
+{
+  "session_id": "2026-09-06-dic-destructive-inquiry",
+  "timestamp": "2026-09-06T13:40:00-04:00",
+  "author": "Haley Bird (Fishers, IN) / autonomous Grok research agent",
+  "status": "research-stage classification. Not a physical discovery, not peer review, not a patent.",
+  "prior_classes_subtracted": [
+    {
+      "id": "DBH",
+      "name": "Dark Biosphere Hypothesis",
+      "date": "2026-05-14",
+      "owns": "networked subsurface life as architecture"
+    },
+    {
+      "id": "CBR",
+      "name": "Cosmic-Bio Resonance",
+      "date": "2026-05-14",
+      "owns": "cosmic structure as downward biological constraint"
+    },
+    {
+      "id": "UND",
+      "name": "Undersampling",
+      "date": "2026-08-03",
+      "owns": "WHERE we look; seafloor 28.7% mapped / 0.001% seen"
+    },
+    {
+      "id": "DBSP",
+      "name": "Deep-biosphere-as-space-prior",
+      "date": "2026-08-14",
+      "owns": "Earth dark interior as analog for icy moons"
+    },
+    {
+      "id": "RNL",
+      "name": "Ritual Nyquist Law",
+      "date": "2026-08-27",
+      "owns": "ritualized sampling rates that cannot Nyquist the process"
+    },
+    {
+      "id": "TAC",
+      "name": "Transducer-Absence Class",
+      "date": "2026-08-28",
+      "owns": "signal detected, layer named dark, converter not located"
+    },
+    {
+      "id": "CAD",
+      "name": "Cadence Mismatch",
+      "date": "2026-08-29",
+      "owns": "sampling cadence vs process cadence"
+    },
+    {
+      "id": "NCR",
+      "name": "Named-Cause Residual + Initiation-Maintenance Split",
+      "date": "2026-08-30",
+      "owns": "official explanation real but insufficient; initiation vs maintenance"
+    },
+    {
+      "id": "FAC",
+      "name": "Failed-Adjudication Class",
+      "date": "2026-08-31",
+      "owns": "dispute that never reaches a verdict; discriminator licenses both camps"
+    },
+    {
+      "id": "CIC",
+      "name": "Clock-Incommensurability Class",
+      "date": "2026-09-01",
+      "owns": "observation cadence cannot resolve process cadence; phase-object collapse"
+    },
+    {
+      "id": "JAC",
+      "name": "Join-Absence Class",
+      "date": "2026-09-02",
+      "owns": "two ledgers share a channel; cartesian product never the object"
+    },
+    {
+      "id": "IOA",
+      "name": "Interscale-Operator Absence Class",
+      "date": "2026-09-04",
+      "owns": "two scales of one named process; transfer function unowned; ordinary paths unexcluded"
+    }
+  ],
+  "retain_zero": [
+    "magnetoreceptor cell (TAC)",
+    "inner-core state (NCR)",
+    "seafloor 28.7% mapped / 0.001% seen (UND)",
+    "Hubble tension (FAC)",
+    "dark matter / dark energy identity (TAC)",
+    "Omnitrophota (TAC)",
+    "nodule dark oxygen (FAC+TAC, Editor's Note 8 Apr 2026) \u2014 DO NOT LOAD-BEAR",
+    "geodynamo\u2013magnetoreception join (JAC)",
+    "UPE-as-communication (killed JAC)",
+    "universal dark-fraction law (killed JAC \u2014 category error)",
+    "wood-wide web Type I (IOA primary)",
+    "K2-18b DMS-as-life (IOA Type II, not primary)",
+    "Cry4 in-vitro to heading (IOA Type III, penalized)",
+    "consciousness (refused)",
+    "QG as solution to H0 (IOA dual-scale occupancy failed)",
+    "Cosmic-Bio Resonance as unification (not revived)",
+    "Dark Biosphere as architecture (not reclaimed)"
+  ],
+  "prior_art_logged": [
+    {
+      "cite": "Herbarium destructive-sampling paradox (NSF/curators; PAR 10643706)",
+      "what": "innovative research requires destroying specimens meant to be permanently safeguarded"
+    },
+    {
+      "cite": "Quantum Darwinism / measurement back-action (Zurek)",
+      "what": "direct measurement of a quantum state destroys complementary observables; objectivity requires redundant environmental copies"
+    },
+    {
+      "cite": "Type-specimen requirement in taxonomy (Mayr/Ghiselin lineage)",
+      "what": "the nomenclatural anchor is often a corpse"
+    },
+    {
+      "cite": "COSPAR planetary protection",
+      "what": "the act of sampling an uninhabited world can make the question unanswerable"
+    },
+    {
+      "cite": "Anderson, More is Different, Science 1972",
+      "what": "logged by IOA; not claimed here"
+    }
+  ],
+  "winning_class": {
+    "id": "DIC",
+    "name": "Destructive-Inquiry Class",
+    "one_liner": "The object is already occupied by a non-destructive method; the remaining unknown is closed only by a protocol that consumes the object or its only copies; no non-destructive surrogate owns that unknown.",
+    "operators": [
+      "Non-destructive occupancy \u2014 already detected without consuming the object",
+      "Identity/function still closed \u2014 more of the same non-destructive method does not close it",
+      "Closing protocol consumes \u2014 collection, drilling, culture, dissection, or extraction irreversibly alters the object or its only copies",
+      "Surrogate census fails \u2014 no existing non-destructive method is the literature's object for the same unknown"
+    ],
+    "why_not_prior": {
+      "UND": "Looking already happened. More of the same look does not close it.",
+      "TAC": "Not a named-dark signal missing a converter. The noun is on camera. The verb (identity/role) requires taking it.",
+      "NCR": "No insufficient official cause. There is no cause yet.",
+      "FAC": "No two-camp dispute. Consensus that the hadal animal is unplaced.",
+      "CIC": "Watching longer video of the same animal does not yield a phylum.",
+      "JAC": "Not a missing foreign key between two existing ledgers.",
+      "IOA": "Not two scales of one named process. One object. One missing destructive step.",
+      "CAD/RNL": "Not a sampling-rate problem.",
+      "DBH/CBR/DBSP": "Not reclaimed."
+    },
+    "novelty_cap": 0.46,
+    "coherence": 0.75,
+    "winner": true
+  },
+  "primary_instance": {
+    "id": "HADAL_INCERTA",
+    "realm": "ocean",
+    "title": "Hadal Animalia incerta sedis (Japan/Ryukyu/Izu-Ogasawara trenches)",
+    "known": "Filmed twice to 9,137 m; 108 morphotaxa visual baseline; experts cannot assign a phylum.",
+    "gap": "Phylum assignment requires a specimen collected without ruining it. Video does not close taxonomy.",
+    "source": "Jamieson, Swanborn et al., Biodiversity Data Journal (2026); Earth.com: 'Until someone collects a specimen without ruining it\u2026'",
+    "year": 2026,
+    "already_seen_nondestructive": 0.95,
+    "closing_act_consumes": 0.92,
+    "surrogate_exists": 0.28,
+    "surrogate_is_literature_object": 0.15,
+    "overlap_prior": 0.18,
+    "overlap_with": "UND (weak: more looking does not assign phylum)",
+    "decision_coupled": 0.35,
+    "freshness_2026": 1.0,
+    "notes": "Primary. Visual occupancy holds. Closing act is collection.",
+    "status": "STRUCTURAL_GAP",
+    "score": 36.4,
+    "kill_reason": ""
+  },
+  "ranked_surface": [
+    {
+      "id": "HADAL_INCERTA",
+      "realm": "ocean",
+      "title": "Hadal Animalia incerta sedis (Japan/Ryukyu/Izu-Ogasawara trenches)",
+      "known": "Filmed twice to 9,137 m; 108 morphotaxa visual baseline; experts cannot assign a phylum.",
+      "gap": "Phylum assignment requires a specimen collected without ruining it. Video does not close taxonomy.",
+      "source": "Jamieson, Swanborn et al., Biodiversity Data Journal (2026); Earth.com: 'Until someone collects a specimen without ruining it\u2026'",
+      "year": 2026,
+      "already_seen_nondestructive": 0.95,
+      "closing_act_consumes": 0.92,
+      "surrogate_exists": 0.28,
+      "surrogate_is_literature_object": 0.15,
+      "overlap_prior": 0.18,
+      "overlap_with": "UND (weak: more looking does not assign phylum)",
+      "decision_coupled": 0.35,
+      "freshness_2026": 1.0,
+      "notes": "Primary. Visual occupancy holds. Closing act is collection.",
+      "status": "STRUCTURAL_GAP",
+      "score": 36.4,
+      "kill_reason": ""
+    },
+    {
+      "id": "ICE_ARCHIVE",
+      "realm": "earth",
+      "title": "Ice-core climate archive (unique annual layers)",
+      "known": "Ice cores recover unique atmospheric chemistry; radar maps fabric and some hydrology non-destructively.",
+      "gap": "Chemical/isotopic identity of a given year is consumed by the core. Radar does not recover the air of 800 kyr ago.",
+      "source": "Eos 2026 Hills et al. radar polarimetry review; ice-core practice.",
+      "year": 2026,
+      "already_seen_nondestructive": 0.8,
+      "closing_act_consumes": 0.88,
+      "surrogate_exists": 0.4,
+      "surrogate_is_literature_object": 0.55,
+      "overlap_prior": 0.3,
+      "overlap_with": "UND (more cores = more places); CIC (more years of the same ice)",
+      "decision_coupled": 0.55,
+      "freshness_2026": 0.7,
+      "notes": "Split: ice-as-archive is DIC; ice-as-dynamics has radar surrogate.",
+      "status": "STRUCTURAL_GAP",
+      "score": 26.04,
+      "kill_reason": ""
+    },
+    {
+      "id": "MUSEUM_PARADOX",
+      "realm": "land",
+      "title": "Destructive-sampling paradox in irreplaceable voucher collections",
+      "known": "DNA barcoding / phylogenomics require destroying specimens meant to be permanently safeguarded.",
+      "gap": "How to close genomic identity of unique historical/endemic vouchers without erasing the voucher.",
+      "source": "NSF PAR 10643706 herbarium destructive-sampling paradox.",
+      "year": 2024,
+      "already_seen_nondestructive": 0.9,
+      "closing_act_consumes": 0.85,
+      "surrogate_exists": 0.5,
+      "surrogate_is_literature_object": 0.4,
+      "overlap_prior": 0.15,
+      "overlap_with": "none of the 12 classes owns the voucher paradox",
+      "decision_coupled": 0.4,
+      "freshness_2026": 0.3,
+      "notes": "Prior art for the CLASS, and a living instance. Not 2026-fresh. Keep as supporting, not primary. | surrogate exists but does not own the remaining unknown",
+      "status": "PENALIZED",
+      "score": 25.62,
+      "kill_reason": ""
+    },
+    {
+      "id": "ANTARCTIC_ENDEMIC",
+      "realm": "land",
+      "title": "Antarctic endemic soil bacteria (90% of sequenced strains endemic)",
+      "known": "PNAS 2026: 90% of sequenced Antarctic Arthrobacter strains have no match anywhere else. Challenges 'everything is everywhere'.",
+      "gap": "Functional role of endemic strains; only copies exist on-site.",
+      "source": "Fierer/Adams, PNAS 2026; The Debrief 2026-09-01.",
+      "year": 2026,
+      "already_seen_nondestructive": 0.75,
+      "closing_act_consumes": 0.4,
+      "surrogate_exists": 0.55,
+      "surrogate_is_literature_object": 0.7,
+      "overlap_prior": 0.4,
+      "overlap_with": "UND (more sites) + DBH (subsurface architecture \u2014 do not reclaim)",
+      "decision_coupled": 0.7,
+      "freshness_2026": 1.0,
+      "notes": "Fresh. Landscape not destroyed by a core. Weak consume \u2192 likely kill. | surrogate exists but does not own the remaining unknown",
+      "status": "PENALIZED",
+      "score": 16.37,
+      "kill_reason": ""
+    },
+    {
+      "id": "ICE_BED_HYDRO",
+      "realm": "earth",
+      "title": "Antarctic basal sliding / subglacial hydrology",
+      "known": "Subglacial water can amplify AIS discharge up to 3\u00d7; basal sliding unconstrained by direct large-scale observation.",
+      "gap": "Cannot directly measure basal properties at scale. Drilling perturbs hydrology.",
+      "source": "Nature Communications 2025 doi:10.1038/s41467-025-58375-4; TC 2025 doi:10.5194/tc-19-2133-2025; Remote Sensing 2025 ice-interior gap.",
+      "year": 2025,
+      "already_seen_nondestructive": 0.7,
+      "closing_act_consumes": 0.62,
+      "surrogate_exists": 0.72,
+      "surrogate_is_literature_object": 0.85,
+      "overlap_prior": 0.45,
+      "overlap_with": "UND (interior not visited) + IOA (surface vs bed scales of one ice sheet)",
+      "decision_coupled": 0.95,
+      "freshness_2026": 0.6,
+      "notes": "High decision value. Surrogate (inverse models) is the field's object \u2192 expect kill or heavy penalty. | surrogate exists but does not own the remaining unknown",
+      "status": "PENALIZED",
+      "score": 12.77,
+      "kill_reason": ""
+    },
+    {
+      "id": "EUROPA_SAMPLE",
+      "realm": "space",
+      "title": "Icy-moon ocean sample vs planetary protection",
+      "known": "COSPAR: landing/sampling can forward-contaminate. Earth's hadal chemosynthesis is the analog.",
+      "gap": "Whether a dark biosphere exists off-Earth cannot be closed by a contaminating lander.",
+      "source": "COSPAR planetary protection; Du/Peng Nature 2025 hadal chemosynthetic corridor as Earth analog.",
+      "year": 2025,
+      "already_seen_nondestructive": 0.55,
+      "closing_act_consumes": 0.8,
+      "surrogate_exists": 0.4,
+      "surrogate_is_literature_object": 0.45,
+      "overlap_prior": 0.78,
+      "overlap_with": "DBSP Deep-biosphere-as-space-prior (2026-08-14)",
+      "decision_coupled": 0.6,
+      "freshness_2026": 0.5,
+      "notes": "Too close to already-claimed DBSP. Expect ZERO or heavy penalty. | overlap with DBSP Deep-biosphere-as-space-prior (2026-08-14)",
+      "status": "PENALIZED",
+      "score": 10.1,
+      "kill_reason": ""
+    },
+    {
+      "id": "SOIL_BGC",
+      "realm": "land",
+      "title": "Soil biosynthetic gene clusters >99% unmatched",
+      "known": "270 Gbp still unsaturated; >10 Tbp projected to saturation; 11,000+ BGCs, >99% unmatched.",
+      "gap": "Function of unmatched BGCs.",
+      "source": "Gigascience 2025 doi:10.1093/gigascience/giaf135; Nature Biotechnology 2026 Brady et al. terabase soil.",
+      "year": 2026,
+      "already_seen_nondestructive": 0.9,
+      "closing_act_consumes": 0.25,
+      "surrogate_exists": 0.9,
+      "surrogate_is_literature_object": 1.0,
+      "overlap_prior": 0.55,
+      "overlap_with": "UND (more sequencing) + TAC (named dark matter of soil)",
+      "decision_coupled": 0.5,
+      "freshness_2026": 0.9,
+      "notes": "Surrogate exists and is the 2026 literature object. Expect KILL.",
+      "status": "KILLED",
+      "score": 0.0,
+      "kill_reason": "non-destructive surrogate is already the literature's object"
+    },
+    {
+      "id": "DARK_PROTEOME",
+      "realm": "human",
+      "title": "Dark proteins reclassified as peptideins (Nature 2026)",
+      "known": "Thousands of 'dark proteins' added to databases as peptideins. ~20% of conserved eukaryotic proteins still lack assigned biological role.",
+      "gap": "Causal role of peptideins / unknown-function conserved proteins.",
+      "source": "Deutsch et al. Nature 2026; Callaway Nature News 2026-05-06; Wikipedia unsolved biology.",
+      "year": 2026,
+      "already_seen_nondestructive": 0.85,
+      "closing_act_consumes": 0.2,
+      "surrogate_exists": 0.6,
+      "surrogate_is_literature_object": 0.5,
+      "overlap_prior": 0.5,
+      "overlap_with": "TAC (named dark, function not located) \u2014 dual of TAC, not DIC",
+      "decision_coupled": 0.3,
+      "freshness_2026": 0.9,
+      "notes": "This is Role-Absence, not Destructive-Inquiry. Expect kill as DIC; retain as RAC comparator.",
+      "status": "KILLED",
+      "score": 0.0,
+      "kill_reason": "closing act does not consume; not DIC"
+    },
+    {
+      "id": "NODULE_MINE",
+      "realm": "ocean",
+      "title": "CCZ polymetallic nodules / abyssal ecosystem function",
+      "known": "Nodules are mining targets. Sites mined in the 1980s have not recovered, including bacteria. Dark-oxygen claim is under Editor's Note \u2014 DO NOT LOAD-BEAR.",
+      "gap": "Ecosystem function of the nodule field if removed. Recovery timescale >> license timescale.",
+      "source": "Sweetman et al. Nature Geoscience 2024 (do not load-bear O2); mining-recovery observations.",
+      "year": 2026,
+      "already_seen_nondestructive": 0.7,
+      "closing_act_consumes": 0.95,
+      "surrogate_exists": 0.35,
+      "surrogate_is_literature_object": 0.2,
+      "overlap_prior": 0.88,
+      "overlap_with": "FAC+TAC nodule dark oxygen \u2014 DO NOT LOAD-BEAR",
+      "decision_coupled": 1.0,
+      "freshness_2026": 0.8,
+      "notes": "Even the ecosystem-function reading is too close to a ZEROED object. Kill.",
+      "status": "ZEROED",
+      "score": 0.0,
+      "kill_reason": "owned by prior class FAC+TAC nodule dark oxygen \u2014 DO NOT LOAD-BEAR"
+    },
+    {
+      "id": "HADAL_CHEMO_CORRIDOR",
+      "realm": "ocean",
+      "title": "2,500 km hadal chemosynthetic corridor (Kuril\u2013Kamchatka / Aleutian)",
+      "known": "Deepest animal chemosynthetic communities, 5,800\u20139,533 m, fluids along trench faults; possible global corridor.",
+      "gap": "Whether the corridor is global; fluid-transport path through deep sediment.",
+      "source": "Peng/Du et al. Nature 645:679\u2013685 (2025); Nature news 2025-12-07.",
+      "year": 2025,
+      "already_seen_nondestructive": 0.85,
+      "closing_act_consumes": 0.35,
+      "surrogate_exists": 0.4,
+      "surrogate_is_literature_object": 0.6,
+      "overlap_prior": 0.5,
+      "overlap_with": "UND (80% of hadal unexplored) \u2014 more trenches = undersampling",
+      "decision_coupled": 0.4,
+      "freshness_2026": 0.7,
+      "notes": "More looking at other trenches closes globality. Undersampling, not DIC.",
+      "status": "KILLED",
+      "score": 0.0,
+      "kill_reason": "closing act does not consume; not DIC"
+    },
+    {
+      "id": "ATMO_BIO_ELF",
+      "realm": "cross",
+      "title": "Atmospheric electricity \u00d7 biology (Schumann / potential gradient)",
+      "known": "ELF overlap with brain/heart; bees detect floral E-fields; 2020 review named the coupling gap.",
+      "gap": "Mechanism linking atmospheric electricity to organismal physiology across scales.",
+      "source": "Nicoll, Hunting et al., Int J Biometeorol 2020 doi:10.1007/s00484-020-01960-7.",
+      "year": 2020,
+      "already_seen_nondestructive": 0.7,
+      "closing_act_consumes": 0.1,
+      "surrogate_exists": 0.2,
+      "surrogate_is_literature_object": 0.2,
+      "overlap_prior": 0.82,
+      "overlap_with": "JAC (shared channel, unjoined ledgers) \u2014 the closing experiment is a JOIN, not a consume",
+      "decision_coupled": 0.25,
+      "freshness_2026": 0.2,
+      "notes": "This is JAC, already claimed. ZERO.",
+      "status": "ZEROED",
+      "score": 0.0,
+      "kill_reason": "owned by prior class JAC (shared channel, unjoined ledgers) \u2014 the closing experiment is a JOIN, not a consume"
+    },
+    {
+      "id": "NASA_WINDOW",
+      "realm": "space",
+      "title": "NASA science-mission cancellation window (41 missions in FY proposal)",
+      "known": "Planetary Society 2026-09-06: proposed cancellation of 41 missions including DAVINCI (Venus ocean/life).",
+      "gap": "Some documented unknowns will not be closeable on civilizational timescales if the instrument is decommissioned.",
+      "source": "The Planetary Society, 2026-09-06.",
+      "year": 2026,
+      "already_seen_nondestructive": 0.6,
+      "closing_act_consumes": 0.15,
+      "surrogate_exists": 0.3,
+      "surrogate_is_literature_object": 0.1,
+      "overlap_prior": 0.25,
+      "overlap_with": "UND (never look) is different from 'looked, turning the instrument off'",
+      "decision_coupled": 1.0,
+      "freshness_2026": 1.0,
+      "notes": "Not DIC (object not consumed). Candidate for a SECOND class: Closure-Window Collapse. Hold for iterate.",
+      "status": "KILLED",
+      "score": 0.0,
+      "kill_reason": "closing act does not consume; not DIC"
+    }
+  ],
+  "counts": {
+    "structural_gap": 2,
+    "penalized": 4,
+    "killed_or_zeroed": 6
+  },
+  "adversarial_audit": {
+    "survivors": 2,
+    "audit": [
+      {
+        "id": "HADAL_INCERTA",
+        "status_in": "STRUCTURAL_GAP",
+        "score": 36.4,
+        "probes": [],
+        "reclassify_hint": null,
+        "survives": true
+      },
+      {
+        "id": "ICE_ARCHIVE",
+        "status_in": "STRUCTURAL_GAP",
+        "score": 26.04,
+        "probes": [],
+        "reclassify_hint": null,
+        "survives": true
+      },
+      {
+        "id": "ICE_BED_HYDRO",
+        "status_in": "PENALIZED",
+        "score": 12.77,
+        "probes": [
+          "IOA-risk: ice surface vs bed are two scales of one named ice sheet"
+        ],
+        "reclassify_hint": "IOA/UND blend \u2014 inverse models own the bed",
+        "survives": false
+      },
+      {
+        "id": "ANTARCTIC_ENDEMIC",
+        "status_in": "PENALIZED",
+        "score": 16.37,
+        "probes": [],
+        "reclassify_hint": null,
+        "survives": false
+      },
+      {
+        "id": "SOIL_BGC",
+        "verdict": "KILLED",
+        "reason": "non-destructive surrogate is already the literature's object",
+        "reclassified_to": "none"
+      },
+      {
+        "id": "DARK_PROTEOME",
+        "verdict": "KILLED",
+        "reason": "closing act does not consume; not DIC",
+        "reclassified_to": "none"
+      },
+      {
+        "id": "NODULE_MINE",
+        "verdict": "ZEROED",
+        "reason": "owned by prior class FAC+TAC nodule dark oxygen \u2014 DO NOT LOAD-BEAR",
+        "reclassified_to": "FAC+TAC nodule dark oxygen \u2014 DO NOT LOAD-BEAR"
+      },
+      {
+        "id": "EUROPA_SAMPLE",
+        "status_in": "PENALIZED",
+        "score": 10.1,
+        "probes": [
+          "UND-risk: occupancy thin"
+        ],
+        "reclassify_hint": null,
+        "survives": false
+      },
+      {
+        "id": "MUSEUM_PARADOX",
+        "status_in": "PENALIZED",
+        "score": 25.62,
+        "probes": [],
+        "reclassify_hint": null,
+        "survives": false
+      },
+      {
+        "id": "HADAL_CHEMO_CORRIDOR",
+        "verdict": "KILLED",
+        "reason": "closing act does not consume; not DIC",
+        "reclassified_to": "none"
+      },
+      {
+        "id": "ATMO_BIO_ELF",
+        "verdict": "ZEROED",
+        "reason": "owned by prior class JAC (shared channel, unjoined ledgers) \u2014 the closing experiment is a JOIN, not a consume",
+        "reclassified_to": "JAC (shared channel, unjoined ledgers) \u2014 the closing experiment is a JOIN, not a consume"
+      },
+      {
+        "id": "NASA_WINDOW",
+        "verdict": "KILLED",
+        "reason": "closing act does not consume; not DIC",
+        "reclassified_to": "none"
+      }
+    ],
+    "rule": "DIC is the right class iff \u22651 instance survives surrogate + prior-class probes."
+  },
+  "iterate_second_class": {
+    "warranted": true,
+    "class_id": "CWC",
+    "class_name": "Closure-Window Collapse",
+    "one_liner": "A documented unknown is closeable only by an instrument or mission whose remaining lifetime is shorter than the closure time; turning it off enlarges the unknown. Distinct from never-looking (UND) and from looking-that-destroys (DIC).",
+    "why_not_dic": "The object (Venus, dark energy, ice giants) is not consumed. The chance to know is.",
+    "why_not_und": "The looking was funded, built, in some cases already flying. Withdrawal is not absence of a look.",
+    "primary_instance": "NASA FY proposal to cancel 41 science missions (Planetary Society 2026-09-06), including DAVINCI.",
+    "status": "LOGGED AS SECONDARY, not today's primary. One-day-old policy object. Do not load-bear as a law of nature.",
+    "novelty_note": "Institutional, not physical. Valid as a closure-failure mode. Not a discovery of nature."
+  },
+  "capability_gap": "No existing tool tracks, against a local archive of already-claimed structural classes, whether an object already occupied by a non-destructive method has a remaining unknown whose only closing protocol consumes the object, after a surrogate census has failed.",
+  "not_claimed": [
+    "Not that the hadal animal is a new phylum.",
+    "Not that collection is impossible \u2014 only that current collection ruins the evidence.",
+    "Not that ice-sheet basal sliding lacks a field (it has one; inverse models own it).",
+    "Not that dark oxygen is real.",
+    "Not that trees talk, not CBR, not Dark Biosphere.",
+    "Not that NASA cancellations are a law of nature.",
+    "Not patent-ready, not peer-reviewed, not a discovery of nature."
+  ],
+  "plot_paths": [
+    "/workspace/artifacts/dic-2026-09-06/dic_ranked_surface.png",
+    "/workspace/artifacts/dic-2026-09-06/dic_operator_radar.png",
+    "/workspace/artifacts/dic-2026-09-06/dic_realm_coverage.png"
+  ]
+}

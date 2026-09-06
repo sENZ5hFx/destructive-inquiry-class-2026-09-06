@@ -1,0 +1,48 @@
+{
+  "function": "closure_window_collapse",
+  "times_invoked": 3,
+  "cases": [
+    {
+      "holds": true,
+      "class": "CWC",
+      "class_name": "Closure-Window Collapse",
+      "unknown": "Whether Venus once had an ocean / could host microbial life in the atmosphere",
+      "instrument": "DAVINCI",
+      "instrument_status": "proposed_cancel",
+      "closure_years": 8.0,
+      "remaining_window_years": 0.0,
+      "window_to_closure_ratio": 0.0,
+      "source": "Planetary Society 2026-09-06; DAVINCI would be first Venus-cloud probe in ~50 years",
+      "why_not_UND": "The look was funded/built/flying. Withdrawal is not absence of a look.",
+      "why_not_DIC": "The planetary/physical object is not consumed. The chance to know is.",
+      "why_not_CIC": "Not a clock mismatch of observation vs process. The clock of the INSTITUTION is collapsing.",
+      "caution": "Institutional, not physical. One-day-old policy object. Do not load-bear as a law of nature. Logged as secondary.",
+      "status": "SECONDARY \u2014 not today's primary"
+    },
+    {
+      "holds": true,
+      "class": "CWC",
+      "class_name": "Closure-Window Collapse",
+      "unknown": "Dark-energy identity / Hubble-tension adjudication via wide-field imaging",
+      "instrument": "Nancy Grace Roman Space Telescope",
+      "instrument_status": "proposed_cancel",
+      "closure_years": 6.0,
+      "remaining_window_years": 0.0,
+      "window_to_closure_ratio": 0.0,
+      "source": "Planetary Society 2026-09-06; Hubble tension remains FAC in this archive \u2014 CWC is the WINDOW, not the tension",
+      "why_not_UND": "The look was funded/built/flying. Withdrawal is not absence of a look.",
+      "why_not_DIC": "The planetary/physical object is not consumed. The chance to know is.",
+      "why_not_CIC": "Not a clock mismatch of observation vs process. The clock of the INSTITUTION is collapsing.",
+      "caution": "Institutional, not physical. One-day-old policy object. Do not load-bear as a law of nature. Logged as secondary.",
+      "status": "SECONDARY \u2014 not today's primary"
+    },
+    {
+      "holds": false,
+      "class": null,
+      "reason": "object_consumed=True \u2192 Destructive-Inquiry Class, not CWC"
+    }
+  ],
+  "n_holds": 2,
+  "primary_today": "DIC, not CWC",
+  "note": "CWC is the iterate gap. Logged. Not load-bearing."
+}
